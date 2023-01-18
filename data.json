@@ -1,0 +1,29 @@
+{
+  "name": "Riko Airlan Ramadhan",
+  "avatar": "https://avatars.githubusercontent.com/u/79613927?s=400&u=3fcaa1f89ed14cd6ebab5002cae0fc9fca376d69&v=4",
+  "links": [
+    {
+      "title": "My Personal Site",
+      "href": "https://rikoairlan.io",
+      "image": "https://avatars.githubusercontent.com/u/79613927?s=400&u=3fcaa1f89ed14cd6ebab5002cae0fc9fca376d69&v=4"
+    },
+    {
+      "title": "Vercel",
+      "href": "https://vercel.com"
+    },
+    {
+      "title": "Next.js",
+      "href": "https://nextjs.org"
+    }
+  ],
+  "socials": [
+    {
+      "title": "Twitter",
+      "href": "https://twitter.com/rikoairlan"
+    },
+    {
+      "title": "GitHub",
+      "href": "https://github.com/Rikoairlan57"
+    }
+  ]
+}
