@@ -1,11 +1,10 @@
 {
   "name": "Riko Airlan Ramadhan",
-  "avatar": "https://avatars.githubusercontent.com/u/79613927?s=400&u=3fcaa1f89ed14cd6ebab5002cae0fc9fca376d69&v=4",
+  "avatar": "https://res.cloudinary.com/rikoairlan/image/upload/v1674824819/gojo_uzdnh9.jpg",
   "links": [
     {
       "title": "My Personal Site",
-      "href": "https://rikoairlan.io",
-      "image": "https://avatars.githubusercontent.com/u/79613927?s=400&u=3fcaa1f89ed14cd6ebab5002cae0fc9fca376d69&v=4"
+      "href": "https://rikoairlan.io"
     },
     {
       "title": "Vercel",
