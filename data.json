@@ -1,10 +1,11 @@
 {
   "name": "Riko Airlan Ramadhan",
-  "avatar": "https://res.cloudinary.com/rikoairlan/image/upload/v1674824819/gojo_uzdnh9.jpg",
+  "avatar": "https://avatars.githubusercontent.com/u/79613927?v=4",
   "links": [
     {
+      "image": "https://avatars.githubusercontent.com/u/79613927?v=4",
       "title": "My Personal Site",
-      "href": "https://rikoairlan.io"
+      "href": "https://personal-blog-portfolio-delta.vercel.app/"
     },
     {
       "title": "Vercel",
@@ -13,16 +14,20 @@
     {
       "title": "Next.js",
       "href": "https://nextjs.org"
+    },
+    {
+      "title": "Tailwind CSS",
+      "href": "https://tailwindcss.com"
     }
   ],
   "socials": [
     {
-      "title": "Twitter",
-      "href": "https://twitter.com/rikoairlan"
-    },
-    {
       "title": "GitHub",
       "href": "https://github.com/Rikoairlan57"
+    },
+    {
+      "title": "Instagram",
+      "href": "https://www.instagram.com/rikoairlan/"
     }
   ]
 }
